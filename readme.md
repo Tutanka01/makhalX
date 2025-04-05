@@ -1,1 +1,1 @@
-![alt text](images/back.png)
+![Background Image](images/back.jpeg)
